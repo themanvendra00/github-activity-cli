@@ -1,5 +1,7 @@
 # GitHub Activity
 
+Project URL: https://roadmap.sh/projects/github-user-activity
+
 A lightweight Node.js CLI tool that fetches and prints recent public GitHub activity for a username.
 
 It reads the public events feed from the GitHub API and displays a simple summary like pushes, issue updates, pull request activity, stars, and more.
