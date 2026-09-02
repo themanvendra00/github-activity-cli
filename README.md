@@ -62,6 +62,9 @@ Recent activity:
 - Starred github/docs (12/29/2024, 10:10:00 AM)
 ```
 
+<img width="917" height="418" alt="image" src="https://github.com/user-attachments/assets/555e1350-c87d-4826-bcca-ebd9894415b4" />
+
+
 ## Notes
 
 - This tool only checks public GitHub activity.
